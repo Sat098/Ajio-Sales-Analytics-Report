@@ -1,4 +1,4 @@
-🛍️ AJIO Sales Dashboard – Power BI
+🛍️ AJIO Sales Dashboard
 📌 Project Overview
 
 This project is an interactive Power BI dashboard built to analyze AJIO retail sales data.
