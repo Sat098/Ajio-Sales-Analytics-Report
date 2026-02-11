@@ -9,15 +9,10 @@ It helps understand revenue trends, product performance, and the impact of disco
 
 📈 Dashboard Features
 - Sales analysis by Category (Accessories, Footwear, Men, Women)
-
 - Sales performance by Region (North, South, East, West)
-
 - Brand-wise sales comparison (Puma, Zara, Allen Solly, Adidas, etc.)
-
 - Monthly sales trend analysis
-
 - Discount impact on category sales
-
 - Filters for Category, Brand, Payment Method, and Price
 
 🔗 Live Dashboard
