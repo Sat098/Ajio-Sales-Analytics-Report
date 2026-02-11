@@ -1,45 +1,26 @@
-# 📊 Sales Analytics Dashboard
+🛍️ AJIO Sales Dashboard – Power BI
+📌 Project Overview
 
-## 🚀 Project Overview
+This project is an interactive Power BI dashboard built to analyze AJIO retail sales data.
+The dashboard provides insights into sales performance by region, category, brand, and month.
 
-This repository contains my **Sales Analytics Dashboard Project** built using **Power BI**.  
-The project focuses on analyzing sales performance, revenue trends, customer behavior, and product insights to support data-driven decision-making.
+It helps understand revenue trends, product performance, and the impact of discounts on sales.
 
----
+📈 Dashboard Features
 
-## 🎯 Objectives
+- Sales analysis by Category (Accessories, Footwear, Men, Women)
 
-- Analyze overall sales performance
-- Identify top-performing products and regions
-- Track monthly revenue trends
-- Monitor profit and sales growth
-- Provide interactive insights for business stakeholders
+- Sales performance by Region (North, South, East, West)
 
----
+- Brand-wise sales comparison (Puma, Zara, Allen Solly, Adidas, etc.)
 
-## 🛠️ Tools & Technologies Used
+- Monthly sales trend analysis
 
-- Power BI (Data Modeling & Visualization)
-- DAX (Data Analysis Expressions)
-- Power Query (Data Cleaning & Transformation)
-- Excel / CSV Dataset
+- Discount impact on category sales
 
----
+- Filters for Category, Brand, Payment Method, and Price
 
-## 📌 Key Dashboard Features
+🔗 Live Dashboard
 
-- 📈 Monthly Sales Trend Analysis  
-- 🏆 Top Products by Revenue  
-- 🌍 Region-wise Sales Performance  
-- 💰 Profit & Revenue KPIs  
-- 🔎 Interactive Filters and Slicers  
-
----
-
-## 📊 Explore Dashboard
-
-You can view the interactive Power BI dashboard here:
-
-👉 **[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTM4ZDBlNWMtODM3Yy00N2RlLThjNDUtYTczYmMxNWFhNmMzIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9)**
-
----
+👉 Power BI Public Link:
+https://app.powerbi.com/view?r=eyJrIjoiOTM4ZDBlNWMtODM3Yy00N2RlLThjNDUtYTczYmMxNWFhNmMzIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9
