@@ -1,4 +1,5 @@
-🛍️ AJIO Sales Dashboard
+🛍️ AJIO Sales Dashboard 
+
 📌 Project Overview
 
 This project is an interactive Power BI dashboard built to analyze AJIO retail sales data.
@@ -7,7 +8,6 @@ The dashboard provides insights into sales performance by region, category, bran
 It helps understand revenue trends, product performance, and the impact of discounts on sales.
 
 📈 Dashboard Features
-
 - Sales analysis by Category (Accessories, Footwear, Men, Women)
 
 - Sales performance by Region (North, South, East, West)
