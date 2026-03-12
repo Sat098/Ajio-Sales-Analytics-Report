@@ -19,6 +19,5 @@ It helps understand revenue trends, product performance, and the impact of disco
   <img width="1580" height="900" alt="image" src="https://github.com/user-attachments/assets/51a99580-fe35-43ec-bd48-4f36f889bca2" />
   
 🔗 Live Dashboard
-
 👉 Power BI Public Link:
 https://app.powerbi.com/view?r=eyJrIjoiOTM4ZDBlNWMtODM3Yy00N2RlLThjNDUtYTczYmMxNWFhNmMzIiwidCI6IjRkNmM2YzlhLWJjNDEtNDZiMi1hYjg2LTQ1YzQ4YzZhMWY0OSJ9
