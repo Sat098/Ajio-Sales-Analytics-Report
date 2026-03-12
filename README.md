@@ -15,6 +15,9 @@ It helps understand revenue trends, product performance, and the impact of disco
 - Discount impact on category sales
 - Filters for Category, Brand, Payment Method, and Price
 
+  Climate Dataset 📷 Dashboard Preview
+  <img width="1580" height="900" alt="image" src="https://github.com/user-attachments/assets/51a99580-fe35-43ec-bd48-4f36f889bca2" />
+  
 🔗 Live Dashboard
 
 👉 Power BI Public Link:
